@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdullah Kortam</h1>
-<h3 align="center">Electronics and Communication Engineer</h3>
+<h3 align="center">Faculty of Engineering, Alexandria University</h3>
+
+- 🌱 I’m currently learning **Embedded System**
 
 - 📫 How to reach me **abdullahkortam60@gmail.com**
 
